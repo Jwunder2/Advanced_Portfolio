@@ -1,0 +1,11 @@
+{
+  "name": "wunder_james_portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for James Wunder",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "author": "James Wunder",
+  "license": "ISC"
+}
